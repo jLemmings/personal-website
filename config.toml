@@ -1,0 +1,27 @@
+baseURL = 'https://joshua-hemmings-cv.web.app'
+languageCode = 'en-us'
+title = 'Joshua Hemmings'
+theme = "awesome-identity"
+
+## Profile Configurations
+[params.profile]
+portrait = "/images/Hemmings_Joshua_B.jpg"
+firstname = "Joshua"
+lastname = "Hemmings"
+title = "Masterassistant & MSc Applied Information and Data Science student"
+bio = """
+Hi there, I'm **Josh** and I currently work for the Lucerne University of Applied Sciences. I started my
+professional career as a draughtsman but have allways enjoyed tech.
+  """
+
+# socials
+[params.contacts]
+email = "joshua@hemmings.ch"
+github = "jLemmings"
+gitlab = "jLemmings"
+linkedin = "joshua-hemmings-b17478117"
+
+## Footer Configurations
+[params.footer]
+copyright = "© 2021 Joshua Hemmings"
+poweredBy = false
