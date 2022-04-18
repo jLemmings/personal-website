@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Joshua Hemmings</title>
-    <link>https://joshua-hemmings-cv.web.app/categories/</link>
+    <link>https://joshuahemmings.ch/categories/</link>
     <description>Recent content in Categories on Joshua Hemmings</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://joshua-hemmings-cv.web.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://joshuahemmings.ch/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

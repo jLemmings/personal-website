@@ -1,4 +1,4 @@
-baseURL = 'https://joshua-hemmings-cv.web.app'
+baseURL = 'https://joshuahemmings.ch'
 languageCode = 'en-us'
 title = 'Joshua Hemmings'
 theme = "awesome-identity"
@@ -8,10 +8,13 @@ theme = "awesome-identity"
 portrait = "/images/Hemmings_Joshua_B.jpg"
 firstname = "Joshua"
 lastname = "Hemmings"
-title = "Masterassistant & MSc Applied Information and Data Science student"
+title = "DevOps Expert & MSc Applied Information and Data Science student"
 bio = """
-Hi there, I'm **Josh** and I currently work for the Lucerne University of Applied Sciences. I started my
-professional career as a draughtsman but have allways enjoyed tech.
+Hi there, I'm **Josh** and I currently work Open Web Technology in the role of a "DevOps Expert". Previously I worked for
+the Lucerne University of Applied Sciences (HSLU). For HSLU I created automation for course infrastructure using Packer,
+Terraform and Ansible.
+
+Feel free to get in touch!
   """
 
 # socials
@@ -23,5 +26,5 @@ linkedin = "joshua-hemmings-b17478117"
 
 ## Footer Configurations
 [params.footer]
-copyright = "© 2021 Joshua Hemmings"
+copyright = "© 2022 Joshua Hemmings"
 poweredBy = false
